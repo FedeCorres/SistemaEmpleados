@@ -1,4 +1,3 @@
-"""github.com/emilianospinoso/sistema22072"""
 from turtle import update
 from flask import Flask
 from flask import render_template , request , redirect
@@ -115,3 +114,4 @@ def storage():
 
 if __name__=='__main__':
     app.run(debug=True)
+#github.com/emilianospinoso/sistema22072
